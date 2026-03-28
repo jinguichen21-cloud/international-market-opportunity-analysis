@@ -1,0 +1,25 @@
+{
+  "name": "跨境机会分析",
+  "version": "2.0.0",
+  "description": "帮助中国企业评估是否适合通过阿里巴巴国际站开展外贸，生成企业适配度报告与市场调研报告，引导留资转化。",
+  "author": "阿里巴巴国际站",
+  "entry": "SKILL.md",
+  "language": "zh-CN",
+  "tools": [
+    "web_search",
+    "web_fetch"
+  ],
+  "triggers": [
+    "做外贸",
+    "外贸评估",
+    "国际站",
+    "阿里国际站",
+    "适合做外贸",
+    "出口",
+    "跨境电商",
+    "外贸体检",
+    "出海"
+  ],
+  "context_length": 8000,
+  "memory": "session"
+}
